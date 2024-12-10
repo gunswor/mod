@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "azurite",
+  "ingredient": {
+    "item": "bluecrystalindustry:azurite_ore"
+  },
+  "result": {
+    "id": "bluecrystalindustry:azurite"
+  }
+}

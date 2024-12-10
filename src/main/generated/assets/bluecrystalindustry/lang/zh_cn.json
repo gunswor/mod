@@ -1,0 +1,16 @@
+{
+  "block.bluecrystalindustry.azurite_block": "蓝晶块",
+  "block.bluecrystalindustry.azurite_ore": "蓝晶矿石",
+  "block.bluecrystalindustry.deepslate_azurite_ore": "深层蓝晶矿石",
+  "item.bluecrystalindustry.azurite": "蓝晶",
+  "item.bluecrystalindustry.azurite_axe": "蓝晶斧",
+  "item.bluecrystalindustry.azurite_boots": "蓝晶靴子",
+  "item.bluecrystalindustry.azurite_chestplate": "蓝晶胸甲",
+  "item.bluecrystalindustry.azurite_helmet": "蓝晶头盔",
+  "item.bluecrystalindustry.azurite_hoe": "蓝晶锄",
+  "item.bluecrystalindustry.azurite_leggings": "蓝晶护腿",
+  "item.bluecrystalindustry.azurite_pickaxe": "蓝晶镐",
+  "item.bluecrystalindustry.azurite_shovel": "蓝晶锹",
+  "item.bluecrystalindustry.azurite_sword": "蓝晶剑",
+  "itemGroup.azurite_group": "蓝晶模组"
+}

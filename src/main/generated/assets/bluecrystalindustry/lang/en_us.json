@@ -1,0 +1,16 @@
+{
+  "block.bluecrystalindustry.azurite_block": "Azurite Block",
+  "block.bluecrystalindustry.azurite_ore": "Azurite Ore",
+  "block.bluecrystalindustry.deepslate_azurite_ore": "Deepslate Azurite Ore",
+  "item.bluecrystalindustry.azurite": "Azurite",
+  "item.bluecrystalindustry.azurite_axe": "azurite_axe",
+  "item.bluecrystalindustry.azurite_boots": "azurite_boots",
+  "item.bluecrystalindustry.azurite_chestplate": "azurite_chestplate",
+  "item.bluecrystalindustry.azurite_helmet": "azurite_helmet",
+  "item.bluecrystalindustry.azurite_hoe": "azurite_hoe",
+  "item.bluecrystalindustry.azurite_leggings": "azurite_leggings",
+  "item.bluecrystalindustry.azurite_pickaxe": "azurite_pickaxe",
+  "item.bluecrystalindustry.azurite_shovel": "azurite_shovel",
+  "item.bluecrystalindustry.azurite_sword": "azurite_sword",
+  "itemGroup.azurite_group": "Azurite Group"
+}
